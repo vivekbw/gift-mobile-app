@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gift-mobile-app",
+    "slug": "gift-mobile-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "gift-mobile-app"
+}
